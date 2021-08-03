@@ -75,7 +75,7 @@ Libraries:
 - MySQL2 and Sequelize ORM: DB
 - Foundation: CSS framework
 - Bootstrap: CSS framework
-- Hatchful: logo
+- Gimp: logo
 - Lucid: wireframe
 - Bcrypt: hash password
 - Dotenv: store sensitive info using environmental variables
